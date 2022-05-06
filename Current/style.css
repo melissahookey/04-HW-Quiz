@@ -1,0 +1,29 @@
+* {
+    background-color: white;
+}
+
+::selection {
+    color: white;
+    background-color: blueviolet;
+}
+
+.start_btn
+.quiz_box
+.result_box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.quiz_box.activeQuiz,
+.result_box.activeResult {
+    pointer-events: auto;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.start_btn button{
+    font-size: 20px;
+    border: blueviolet 5px;
+    background-color: lightgreen;
+    font: blueviolet;
+}
