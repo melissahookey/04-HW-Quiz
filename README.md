@@ -1,6 +1,7 @@
 # 04-HW-Quiz
 
- ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+ ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+ ![badge](https://img.shields.io/github/languages/count/melissahookey/04-HW-Quiz)
 
   ## Description
  A quiz about cats using HTML, CSS and JS. Test your cat knowledge! 
