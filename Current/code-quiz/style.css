@@ -25,13 +25,7 @@ body {
     padding: 4rem;
 }
 
-h1 {
-    padding: 1rem;
-    text-align: center;
-    margin: 0;
-}
-
-h2 {
+h1 h2 h3 {
     padding: 1rem;
     text-align: center;
     margin: 0;
@@ -65,11 +59,9 @@ button {
 
 button:hover {
     background-color: powderblue;
-    color: black;
 }
 
 button:focus {
     outline: none;
     background-color: limegreen;
-    color: black;
 }
